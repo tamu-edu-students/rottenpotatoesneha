@@ -7,7 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
-  {:title => 'Katyar Kaljat Ghusli', :rating => 'U',
+  {:title => 'Katyarr Kaljat Ghusli', :rating => 'U',
     :release_date => '16-Apr-2015'},
   {:title => 'Hum aapke hai kaun', :rating => 'U',
     :release_date => '05-AUg-1994'},
